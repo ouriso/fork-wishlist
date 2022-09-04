@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ErBlack/wishlist.git"
+    "url": "git+ssh://git@github.com/ouriso/wishlist.git"
   },
-  "author": "ErBlack",
+  "author": "Ouriso",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
