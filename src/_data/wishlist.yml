@@ -11,6 +11,10 @@ items:
     realized: false
     name: Logitech M720 Triathlon
     src: src/img/logitech-m720.webp
+  - link: https://www.honor.ru/wearables/honor-band-6/
+    realized: false
+    name: Honor Band 6
+    src: src/img/honor-band-6.webp
   - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
     realized: false
     name: Bamboo Slate
