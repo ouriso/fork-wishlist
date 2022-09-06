@@ -1,6 +1,6 @@
 {
   "name": "wishlist",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "description": "My wishlist",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "npm run build -- --serve",
     "build": "npx @11ty/eleventy",
     "postversion": "npm run build && npm run publish && git push && git push --tags",
-    "publish": "ghpages",
+    "publish": "ghpages -p dist/wishlist",
     "retrieve": "node scripts/retrieve-images.js"
   },
   "repository": {
