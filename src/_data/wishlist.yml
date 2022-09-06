@@ -15,6 +15,10 @@ items:
     realized: false
     name: Honor Band 6
     src: src/img/honor-band-6.webp
+  - link: https://www.bagandwallet.ru/collection/wandrd-2/product/nesesser-wandrd-camera-cube-mini-kupit
+    realized: false
+    name: Wandrd Camera Cube Mini+
+    src: src/img/wandrd-camera-cube.jpeg
   - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
     realized: false
     name: Bamboo Slate
@@ -55,11 +59,19 @@ items:
     realized: false
     name: Samsung T5
     src: src/img/samsung-t5.jpg
-  - link: https://www.thule.com/ru-ru/backpacks/camera-backpacks-bags/thule-enroute-camera-backpack-25l-_-3203904
-    realized: false
-    name: Thule Enroute Camera Backpack
-    src: src/img/thule-enroute.webp
   - link: https://www.ozon.ru/product/philips-sh50-50-dlya-shaver-series-5000-britvennye-golovki-3-sht-34564919/?sh=LqvCgtQU-w
     realized: false
     name: Бритвенные головки Philips SH50/50
     src: src/img/philips-sh50.webp
+  - link: https://olympus.store/lenses/pen-om-d-lenses/m-zuiko/m-zuiko-digital-ed-40-150mm-1-4-0-5-6-r-silver-1.html
+    realized: true
+    name: Объектив Olympus 40-150 мм F4-5.6
+    src: src/img/olympus-40-150.jpeg
+  - link: https://www.avito.ru/sankt-peterburg/fototehnika/olympus_ed_8mm_f1.8_pro_fisheye_micro_43_1543637547
+    realized: false
+    name: Объектив Olympus 8 мм F1.8
+    src: src/img/olympus-8_1.8.webp
+  - link: https://www.dns-shop.ru/product/e1805c39a5b1ed20/igrovaa-konsol-nintendo-switch/
+    realized: true
+    name: Nintendo Switch 
+    src: src/img/switch.webp
