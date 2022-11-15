@@ -1,18 +1,18 @@
 items:
   - link: https://www.bagandwallet.ru/collection/wandrd/product/ryukzak-wandrd-the-prvke-series-kupit
-    realized: false
+    realized: true
     name: Wandrd The prvke (blue)
     src: src/img/wandrd-prvke-blue.jpeg
   - link: https://doctorhead.ru/product/gravastar_sirius_pro_space_grey/
-    realized: false
+    realized: true
     name: Gravastar Sirius Pro
     src: src/img/gravastar-sirius-pro.webp
   - link: https://www.logitech.com/ru-ru/products/mice/m720-triathlon.910-004791.html
-    realized: false
+    realized: true
     name: Logitech M720 Triathlon
     src: src/img/logitech-m720.webp
   - link: https://www.honor.ru/wearables/honor-band-6/
-    realized: false
+    realized: true
     name: Honor Band 6
     src: src/img/honor-band-6.webp
   - link: https://www.bagandwallet.ru/collection/wandrd-2/product/nesesser-wandrd-camera-cube-mini-kupit
@@ -44,7 +44,7 @@ items:
     name: Logitech MX Keys
     src: src/img/logitech-mx-keys.webp
   - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/orbitkey-nest?variant=32546115190880
-    realized: false
+    realized: true
     name: Orbitkey Nest
     src: src/img/orbitkey-nest.jpg
   - link: https://www.swiftpoint.com/products/ergonomic-mice-propoint
